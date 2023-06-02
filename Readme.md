@@ -2,7 +2,7 @@
 > https://nicholaszhou.github.io/
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/nicholas-zhou/nicholaszhou.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-down-red)](http://nicholaszhou.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-construction-orange)](http://nicholaszhou.github.io/)
 
 <!-- ### Website Preview
 #### Home Page
