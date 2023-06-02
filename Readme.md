@@ -1,8 +1,8 @@
 # Personal Portfolio 🔥
-> https://nicholaszhou.github.io/
+> nicholas-zhou.github.io/nz-portfolio/
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/nicholas-zhou/nicholaszhou.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-construction-orange)](http://nicholaszhou.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-construction-orange)](nicholas-zhou.github.io/nz-portfolio/)
 
 <!-- ### Website Preview
 #### Home Page
