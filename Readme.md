@@ -2,7 +2,7 @@
 > https://nicholas-zhou.github.io/nz-portfolio/
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/nicholas-zhou/nicholaszhou.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-construction-orange)](https://nicholas-zhou.github.io/nz-portfolio/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://nicholas-zhou.github.io/nz-portfolio/)
 
 <!-- ### Website Preview
 #### Home Page
